@@ -1,0 +1,100 @@
+
+.container-fluid{
+    background-color: black;
+    width: 100%;
+    height: auto;         
+}
+.col{
+ background-color: whitesmoke;
+ margin-left: 0.5cm;
+ margin-right: 0.2cm;
+}
+.image{
+    height: 40px;
+    margin-left: 0.1cm;
+    margin-top: 0.1cm;
+}
+.nav-link{
+    font-size: large;
+    color: white;
+    font-style: oblique;   
+}
+.navbar-toggler-icon{
+    background-color: white;
+    height: 25px;
+}
+.back{
+    background-image: url(benz.png);
+    background-position: bottom;
+    background-size: cover;
+   height: 530px;
+   width: 100%; 
+}
+h2{
+    margin-left: 0.5cm;
+    font-size: x-larger;
+    font-family: fantasy;
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 0.5cm;
+}
+.td{
+    padding-left: 70%;
+    padding-right: 2cm;
+    text-align: right;
+}
+.tdd{
+    padding-right: 70%;
+    padding-left: 2cm;
+    text-align: left;
+    color: mediumblue; 
+}
+
+.icon{
+    width: 20px;
+}
+h5{
+    color: rgb(78, 78, 175);
+    text-align: center;
+}
+.two{
+    font-size: small;
+    color: darkblue;
+}
+.three{
+ font-size: small;   
+}
+.nav-link:hover{
+    color: blue;
+}
+.veh{
+    width: 300px;
+}
+.pro{
+    padding-right: 50%;
+}
+.src{
+    width: 800px;
+}
+.srrc{
+    width: 400px;
+}
+.pnot{
+    color: darkblue;
+}
+.photo{
+    width: 200px;
+}
+.vnt{
+    background-image: url(vol.jpg);
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+.class{
+    background-image: url(background1.jpeg);
+}
+.cars{
+    background-image: url(vol2.jpeg);
+}
